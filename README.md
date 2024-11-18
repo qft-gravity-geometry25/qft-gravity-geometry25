@@ -1,4 +1,11 @@
-## Hi there 👋
+## qft-gravity-geometry.github.io
+Website for SEPnet student-led conference "Quantum Field Theory, Gravity and Geometry" 19 March 2025 at One Park Crescent, London, United Kingdom. 
+
+## Further information
+Coming soon! 
+
+## Contact Organisers: 
+### ✉️ [Julian Kupka](mailto:J.Kupka@herts.ac.uk)  
 
 <!--
 **qft-gravity-geometry25/qft-gravity-geometry25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
